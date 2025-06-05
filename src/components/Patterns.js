@@ -11,3 +11,5 @@ const Patterns = [
     [2, 4, 6]
 ]
 export default Patterns
+
+// this is pattern for the tic tac toe game  
