@@ -13,3 +13,5 @@ const Patterns = [
 export default Patterns
 
 // this is pattern for the tic tac toe game  
+// it contains all the winning patterns for the game
+// each pattern is an array of indexes that represent the winning combination
