@@ -7,3 +7,4 @@ export default function Square({val,chooseSquare}) {
     </div>
   )
 }
+// this is square box
